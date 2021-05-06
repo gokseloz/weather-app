@@ -29,4 +29,4 @@
 - Fully Responsive
 
 ## Live demo
-- [See live demo](weather-app-gokseloz.vercel.app)
+- [See live demo](https://weather-app-ruby-theta.vercel.app/)
