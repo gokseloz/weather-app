@@ -32,4 +32,4 @@
 - [See live demo](https://weather-app-ruby-theta.vercel.app/)
 
 ## Screenshot
-(![weather-app](https://user-images.githubusercontent.com/72968539/117370316-813dca00-aec6-11eb-9c1c-7e863f06bb31.png))
+![weather-app](https://user-images.githubusercontent.com/72968539/117370316-813dca00-aec6-11eb-9c1c-7e863f06bb31.png)
