@@ -5,7 +5,7 @@
 - The app firstly asks permission for location determnation and then shows the weather condition and some info
 
 ## What else did I add besides original project?
-- a feature that shows current date
+- a feature that shows `current date`
     - days and months arrays are created to reach the names of them as it is not possible directly from `new Date()`, 
 
 ## Why did I do this?
